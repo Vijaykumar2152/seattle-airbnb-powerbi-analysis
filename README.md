@@ -47,9 +47,27 @@ The completed Power BI report is available in this repository:
 Download the PBIX file and open it using Microsoft Power BI Desktop.
 
 ## Future Improvements
-- Add dashboard screenshots to this repository
 - Expand documentation of DAX measures
 - Investigate seasonality and pricing trends in greater detail
+
+
+## Dashboard Screenshots
+
+### Dashboard 1
+![Dashboard 1](Screenshot%202026-11-05%20000923.png)
+
+### Dashboard 2
+![Dashboard 2](Screenshot%202026-11-05%20000941.png)
+
+### Dashboard 3
+![Dashboard 3](Screenshot%202026-11-05%20000953.png)
+
+### Dashboard 4
+![Dashboard 4](Screenshot%202026-11-05%20001010.png)
+
+### Dashboard 5
+![Dashboard 5](Screenshot%202026-11-05%20001028.png)
+
 
 ## Author
 Vijaykumar Kasparaju
